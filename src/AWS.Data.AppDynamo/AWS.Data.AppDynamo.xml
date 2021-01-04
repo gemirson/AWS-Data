@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AWS.Data.AppDynamo</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:AWS.Data.AppDynamo.Controllers.OrderController.GetMessagesAsync" -->
+    </members>
+</doc>
